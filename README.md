@@ -1,2 +1,2 @@
 # Face_Mask_Detection
-With 11384 no of images including with_mask,improper_mask,without_mask
+A model with 11,384 no of image dataset using MobileNetV2 architecture with three classes.
