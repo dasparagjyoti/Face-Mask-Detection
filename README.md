@@ -1,4 +1,4 @@
-# Face_Mask_Detection 
+# Face Mask Detection 
 ## Experiment - 1(For Large Dataset)
 1. Size of the Dataset = 11,384 no of RGB images
 2. Classes:- improper_mask = 3831 no of images |
