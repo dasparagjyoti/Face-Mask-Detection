@@ -9,9 +9,13 @@
 6. Batch Size = 47
 
 ## Result and Observations
-1. Train_accuracy:- 0.9775 
-2. Validation_accuracy:- 0.9895 
-3. Test_accuracy:- 0.9851
-4. Estimated time taken to train the model :- 2h 20 mints
+1. Train_accuracy:- 0.8567 
+2. Validation_accuracy:- 0.8423
+3. Test_accuracy:- 0.8480
+4. Estimated time taken to train the model :- 1h 50 mints
+
+## Screenshot
+ ![fg](https://user-images.githubusercontent.com/13942624/132103659-90fc1bc7-c85d-40ba-8ed2-f592277da99c.PNG)
+
 
 
